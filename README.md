@@ -1,7 +1,7 @@
 # Inje Lee - @soaple
 Hi, I'm a software engineer.
 
-`# JavaScript` `# Node.js` `# React` `# ReactNative` `# Next.js`
+`# JavaScript` `# TypeScript` `# Node.js` `# React` `# ReactNative` `# Next.js`
 
 [![Inje Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=soaple&show_icons=true&theme=react&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
